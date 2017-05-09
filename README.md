@@ -1,2 +1,3 @@
 # golang_dev
-golang dev commits
+## golang bases
+## homework
